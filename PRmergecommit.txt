@@ -1,0 +1,5 @@
+public static void()
+{
+	sys.out.pring("lol");
+	2+2=4;
+}
