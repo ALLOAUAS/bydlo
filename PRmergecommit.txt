@@ -2,4 +2,5 @@ public static void()
 {
 	sys.out.pring("lol");
 	2+2=4;
+	3+3=6;
 }
