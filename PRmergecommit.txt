@@ -4,4 +4,5 @@ public static void()
 	2+2=4;
 	3+4=7;
 	5+5+5=15;
+zashor
 }
