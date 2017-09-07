@@ -1,5 +1,6 @@
-public void static main() {
-	4+4=4
+public static void()
+{
+	sys.out.pring("lol");
 	2+2=4;
-	sys.out.pring("loh");
+	3+3=6;
 }
